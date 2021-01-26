@@ -6,8 +6,8 @@ Scripts Jupyter notebooks and compressed data files used to study switchable sta
 
 The findings for this study are published in:
 
-> Dawson, W. D.<sup>†</sup>;Lang, E. J. M.<sup>†</sup>; Rhys, G. G.<sup>†</sup>; Shelley, K. L.<sup>†</sup>; Williams, C.; Brady, R. L.; Crump, M. P.; Mulholland, A. J.; Woolfson, D. N., 
-> **Structural resolution of switchable states of a *de novo* peptide assembly.** Under review in Nature Communications.
+Dawson, W. D.<sup>†</sup>;Lang, E. J. M.<sup>†</sup>; Rhys, G. G.<sup>†</sup>; Shelley, K. L.<sup>†</sup>; Williams, C.; Brady, R. L.; Crump, M. P.; Mulholland, A. J.; Woolfson, D. N., 
+**Structural resolution of switchable states of a *de novo* peptide assembly.** Under review in Nature Communications.
 
 (<sup>†</sup> denotes equal contribution)
 
